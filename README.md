@@ -1,8 +1,8 @@
 # DevOps Journey 🚀
 
 ## About Me
-Software Engineering graduate (Embedded Systems) based in Germany 🇩🇪
-Transitioning into DevOps | Open to opportunities in Germany and remote
+Software Engineering graduate specialising in DevOps | Based in Germany 🇩🇪
+| Open to opportunities in Germany and remote
 
 ## Tech Stack
 - **CI/CD:** GitLab CI, GitHub Actions
